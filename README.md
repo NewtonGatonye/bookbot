@@ -1,2 +1,3 @@
 # bookbot
-A boot.dev challenge started on 20-03-2025
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
